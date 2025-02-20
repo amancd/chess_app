@@ -25,7 +25,7 @@ A **feature-rich and immersive chess application** designed for both beginners a
 
 ---
 
-## 📢 Latest Updates & Changelog
+## 📢 Latest Updates & Release Note
 
 ### 🔹 Version 8 (1.0.0) (Initial Release)
 - 🆕 **Offline Chess Mode** for same-device play.

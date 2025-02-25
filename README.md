@@ -37,9 +37,12 @@ A **feature-rich and immersive chess application** designed for both beginners a
 - 📚 **Expanded Openings Database** with categorized ECO codes.
 
 ### 🔹 Version 10 (1.0.0) (Upcoming)
-- 🎯 **Game Review Feature**: Analyze moves for mistakes, blunders, and best plays.
-- 🔊 **Sound Effects & Animations** – Enhanced visual and audio experience.
-- 📊 **Stronger AI Engine** – Improved AI calculations and move depth.
+- 🆕 **Login System**: Login with Google Authentication.
+- 🆕 **Solve Puzzles** – Over 1500+ Puzzles.
+- 🆕 **EndGame Trainer** – Play end game positions with AI.
+- 🆕 **Leaderboard** – See your ranking based upon the coins.
+- 🆕 **Earn coins** – Solve Puzzles & Get Coins.
+- 🆕 **Play Online** – Play Online With Friends.
 
 ---
 

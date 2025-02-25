@@ -39,7 +39,7 @@ A **feature-rich and immersive chess application** designed for both beginners a
 ### 🔹 Version 10 (1.0.0) (Upcoming)
 - 🆕 **Login System**: Login with Google Authentication.
 - 🆕 **Solve Puzzles** – Over 1500+ Puzzles.
-- 🆕 **EndGame Trainer** – Play end game positions with AI.
+- 🆕 **EndGame Trainer** – Play 20000 end game positions with AI.
 - 🆕 **Leaderboard** – See your ranking based upon the coins.
 - 🆕 **Earn coins** – Solve Puzzles & Get Coins.
 - 🆕 **Play Online** – Play Online With Friends.

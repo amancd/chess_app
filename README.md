@@ -33,7 +33,7 @@ A **feature-rich and immersive chess application** designed for both beginners a
 - 🆕 **Gambit Explorer** with famous opening traps.
 - 🆕 **Historic Games Database** to replay classic matches.
 
-### 🔹 Version 9 (1.0.0)
+### 🔹 Version 9 (1.0.0) (Minor Update)
 - 📚 **Expanded Openings Database** with categorized ECO codes.
 
 ### 🔹 Version 10 (1.0.0) (Upcoming)
@@ -43,6 +43,8 @@ A **feature-rich and immersive chess application** designed for both beginners a
 - 🆕 **Leaderboard** – See your ranking based upon the coins.
 - 🆕 **Earn coins** – Solve Puzzles & Get Coins.
 - 🆕 **Play Online** – Play Online With Friends.
+- 🆕 **Game History** – Get your own gameplay.
+- 🆕 **Ad Free** – No Ads For Premium Users.
 
 ---
 
